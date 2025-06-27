@@ -127,7 +127,7 @@ public class HotelManagementSystem {
         Scanner sc = new Scanner(System.in);
         // Display menu and handle user input
         while (true) {
-            System.out.println("\n--- Hotel Management System by DataFlair ---");
+            System.out.println("\n--- Hotel Management System by Student ---");
             System.out.println("1. Check-in");
             System.out.println("2. Check-out");
             System.out.println("3. View available rooms");
